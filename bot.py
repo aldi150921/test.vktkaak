@@ -35,10 +35,10 @@ from telegram.ext import (
 #  KONFIGURASI — EDIT BAGIAN INI
 # ══════════════════════════════════════════════
 
-BOT_TOKEN  = os.getenv("BOT_TOKEN",  "ISI_TOKEN_DISINI")
-ADMIN_ID   = int(os.getenv("ADMIN_ID",   "0"))
-STORE_NAME = os.getenv("STORE_NAME", "🛍️ Toko Digital")
-BANK_INFO  = os.getenv("BANK_INFO",  "BCA • 1234567890 • a/n Nama Kamu")
+BOT_TOKEN  = os.getenv("BOT_TOKEN",  "8899312905:AAEyEOvHCLapJJLPbT7TLI1U4x040j4haFc")
+ADMIN_ID   = int(os.getenv("ADMIN_ID",   "8580173749"))
+STORE_NAME = os.getenv("STORE_NAME", "ZaeonX Store")
+BANK_INFO  = os.getenv("BANK_INFO",  "DANA 08576551887")
 
 # ══════════════════════════════════════════════
 #  PRODUK — EDIT SESUAI DAGANGANMU
